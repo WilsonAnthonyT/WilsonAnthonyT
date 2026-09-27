@@ -27,7 +27,7 @@ Hsinchu, Taiwan · Indonesia → Taiwan
 
 <br/>
 
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
+<img src="./assets/terminal_loop.gif" width="100%" alt="" />
 
 ## `01.` About / 自己紹介
 
