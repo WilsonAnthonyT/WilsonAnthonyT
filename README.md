@@ -27,6 +27,8 @@ Hsinchu, Taiwan · Indonesia → Taiwan
 
 <br/>
 
+<img src="./assets/neon_divider.gif" width="100%" alt="" />
+
 ## `01.` About / 自己紹介
 
 <table>
@@ -52,8 +54,6 @@ My current direction is toward **AI engineering, software engineering, intellige
 </td>
 </tr>
 </table>
-
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
 
 ## `02.` Featured Project / 注目プロジェクト
 
