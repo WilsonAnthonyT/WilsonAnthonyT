@@ -27,8 +27,6 @@ Hsinchu, Taiwan · Indonesia → Taiwan
 
 <br/>
 
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
-
 ## `01.` About / 自己紹介
 
 <table>
@@ -130,8 +128,6 @@ Mobile budgeting and savings application developed with Flutter, including Andro
 </tr>
 </table>
 
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
-
 ## `03.` Engineering Focus / 専門
 
 <table>
@@ -157,8 +153,6 @@ Operating systems, computer networks, architecture, data structures, and low-lev
 </tr>
 </table>
 
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
-
 ## `04.` Toolkit / 技術
 
 <div align="center">
@@ -170,8 +164,6 @@ Operating systems, computer networks, architecture, data structures, and low-lev
 `Gemini` · `Genkit` · `Firestore` · `Cloud Functions` · `FCM` · `REST APIs` · `MIPS Assembly`
 
 </div>
-
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
 
 ## `05.` Education / 学び
 
@@ -234,8 +226,6 @@ Opportunities to learn from strong engineering teams and contribute to meaningfu
 </details>
 
 <br/>
-
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
 
 <div align="center">
 
