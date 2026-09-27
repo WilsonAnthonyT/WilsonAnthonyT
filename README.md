@@ -23,17 +23,19 @@
 **EECS undergraduate @ National Tsing Hua University**  
 Hsinchu, Taiwan · Indonesia → Taiwan
 
+<br/>
+
+<img src="./assets/terminal_loop.gif" width="72%" alt="Animated terminal profile" />
+
 </div>
 
 <br/>
-
-<img src="./assets/neon_divider.gif" width="100%" alt="" />
 
 ## `01.` About / 自己紹介
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 I'm **Wilson Antony Thang**, an EECS undergraduate who enjoys building software across different layers — from **agentic AI and mobile applications** to **systems-level programming**.
 
@@ -47,13 +49,39 @@ I like projects where the engineering goes beyond getting something to compile:
 My current direction is toward **AI engineering, software engineering, intelligent applications, mobile development, and systems**.
 
 </td>
-<td width="42%" align="center" valign="middle">
 
-<img src="./assets/terminal_loop.gif" width="100%" alt="Animated terminal profile" />
+<td width="38%" valign="middle">
+
+<h3><code>PROFILE // STATUS</code></h3>
+
+🎓 **EECS @ NTHU**  
+📍 **Hsinchu, Taiwan**  
+🌏 **Indonesia → Taiwan**
+
+<br/>
+
+🧠 **Current focus**  
+AI Engineering · Mobile · Systems
+
+<br/>
+
+🌱 **Currently building**  
+**Goal Digger**
+
+<br/>
+
+🚀 **Interested in**  
+Internships · Research · Engineering Teams
+
+<br/>
+
+`student → builder → engineer`
 
 </td>
 </tr>
 </table>
+
+<br/>
 
 ## `02.` Featured Project / 注目プロジェクト
 
@@ -128,6 +156,8 @@ Mobile budgeting and savings application developed with Flutter, including Andro
 </tr>
 </table>
 
+<br/>
+
 ## `03.` Engineering Focus / 専門
 
 <table>
@@ -153,6 +183,8 @@ Operating systems, computer networks, architecture, data structures, and low-lev
 </tr>
 </table>
 
+<br/>
+
 ## `04.` Toolkit / 技術
 
 <div align="center">
@@ -164,6 +196,8 @@ Operating systems, computer networks, architecture, data structures, and low-lev
 `Gemini` · `Genkit` · `Firestore` · `Cloud Functions` · `FCM` · `REST APIs` · `MIPS Assembly`
 
 </div>
+
+<br/>
 
 ## `05.` Education / 学び
 
@@ -228,6 +262,10 @@ Opportunities to learn from strong engineering teams and contribute to meaningfu
 <br/>
 
 <div align="center">
+
+<img src="./assets/neon_divider.gif" width="100%" alt="" />
+
+<br/>
 
 ### `CONNECT // 接続`
 
